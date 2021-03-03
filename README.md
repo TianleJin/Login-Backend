@@ -1,2 +1,2 @@
 # Login-Backend
-Backend for login system
+Express and Mongo backend template for user registration and login.
